@@ -28,10 +28,15 @@
 | Privacy-preserving Federated Brain Tumour Segmentation | MLMI 2019 | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_16) | :x: |
 | | | [Link]() | |
 | | | [Link]() | |
-| | | [Link]() | |
-| | | [Link]() | |
-| | | [Link]() | |
-| | | [Link]() | |
-| | | [Link]() | |
-| | | [Link]() | |
-| | | [Link]() | |
+
+# Benchmarks
+
+| Name | Link |
+| :---------------- | :------: |
+| FedSegment| [Link](https://fedsegment.github.io/home/) |
+| Federated Tumor Segmentation Challenge | [Link](https://fets-ai.github.io/Challenge/) |
+| Federated Learning on Vessel Segmentation | [Link](https://openmined.org/blog/federated-learning-on-vessel-segmentation/) |
+| | [Link]() |
+| | [Link]() |
+| | [Link]() |
+| | [Link]() |
