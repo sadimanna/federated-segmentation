@@ -19,7 +19,11 @@
 | Federated Incremental Semantic Segmentation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf) | :x: |
 | FedGrav: An Adaptive Federated Aggregation Algorithm for Multi-institutional Medical Image Segmentation | MICCAI 2023 | [Link](https://dl.acm.org/doi/10.1007/978-3-031-43895-0_16) | :x: |
 | Federated Learning for Medical Image Analysis: A Survey | ArXiv | [Link](https://arxiv.org/abs/2306.05980v4) | :x: |
+| The Federated Tumor Segmentation (FeTS) Tool: An open-source solution to further solid tumor research | Phys Med Biol. 2022 | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9592188/) | |
+| Fair Federated Medical Image Segmentation via Client Contribution Estimation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Fair_Federated_Medical_Image_Segmentation_via_Client_Contribution_Estimation_CVPR_2023_paper.pdf) ||
 | Federated learning for heart segmentation | IVMSP 2022 | [Link](https://ieeexplore.ieee.org/document/9816345) | :x: |
+| A review on brain tumor segmentation based on deep learning methods with federated learning techniques | Computerized Medical Imaging and Graphics | [Link](https://www.sciencedirect.com/science/article/pii/S0895611123001313) ||
+| Federated Cross Learning for Medical Image Segmentation | MIDL 2023 | [Link](https://openreview.net/forum?id=DrZbwobH_zo) ||
 | FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation | IEEE TMI 2022 | [Link](https://ieeexplore.ieee.org/document/10004567) | :x: |
 | Federated learning enables big data for rare cancer boundary detection | Nature Communications 2022 | [Link](https://www.nature.com/articles/s41467-022-33407-5) | :x: |
 | Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation | CVPR 2022 | [Link](https://par.nsf.gov/servlets/purl/10366148) | :x: |
@@ -41,3 +45,9 @@
 | | [Link]() |
 | | [Link]() |
 | | [Link]() |
+
+# Others
+
+| Name | Link |
+| :---------------- | :------: |
+| A Survey of Trustworthy Federated Learning: Issues, Solutions, and Challenges | [Link](https://dl.acm.org/doi/10.1145/3678181) |
