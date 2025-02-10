@@ -18,6 +18,7 @@
 | FedSeg: Class-Heterogeneous Federated Learning for Semantic Segmentation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Miao_FedSeg_Class-Heterogeneous_Federated_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf) | ✔️ |
 | Federated Incremental Semantic Segmentation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf) | :x: |
 | FedGrav: An Adaptive Federated Aggregation Algorithm for Multi-institutional Medical Image Segmentation | MICCAI 2023 | [Link](https://dl.acm.org/doi/10.1007/978-3-031-43895-0_16) | :x: |
+| Federated Learning for Medical Image Analysis: A Survey | ArXiv | [Link](https://arxiv.org/abs/2306.05980v4) | :x: |
 | Federated learning for heart segmentation | IVMSP 2022 | [Link](https://ieeexplore.ieee.org/document/9816345) | :x: |
 | FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation | IEEE TMI 2022 | [Link](https://ieeexplore.ieee.org/document/10004567) | :x: |
 | Federated learning enables big data for rare cancer boundary detection | Nature Communications 2022 | [Link](https://www.nature.com/articles/s41467-022-33407-5) | :x: |
