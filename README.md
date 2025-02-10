@@ -2,6 +2,10 @@
 
 | Paper | Venue | Link | Read |
 | :---------------- | :------: | :----: | :----: |
+| Federated 3D multi-organ segmentation with partially labeled and unlabeled data |  IJCARS 2024 | [Link](https://link.springer.com/article/10.1007/s11548-024-03139-6) ||
+| Federated Semi-supervised Learning for Medical Image Segmentation with Intra-client and Inter-client Consistency | BIBM 2024 | [Link](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822798/23onO4ZnSHC) ||
+| FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_35) ||
+| Federated Semi-Supervised Medical Image Segmentation via Prototype-Based Pseudo-Labeling and Contrastive Learning | IEEE TMI 2024 | [Link](https://ieeexplore.ieee.org/document/10250843) ||
 | Federated brain tumor segmentation: an extensive benchmark | MIA 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001956) | :x: |
 | Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27909) | :x: |
 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_27) | :x: |
@@ -23,10 +27,15 @@
 | Fair Federated Medical Image Segmentation via Client Contribution Estimation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Fair_Federated_Medical_Image_Segmentation_via_Client_Contribution_Estimation_CVPR_2023_paper.pdf) ||
 | Federated learning for heart segmentation | IVMSP 2022 | [Link](https://ieeexplore.ieee.org/document/9816345) | :x: |
 | A review on brain tumor segmentation based on deep learning methods with federated learning techniques | Computerized Medical Imaging and Graphics | [Link](https://www.sciencedirect.com/science/article/pii/S0895611123001313) ||
+| Federated Alternate Training (FAT): Leveraging Unannotated Data Silos in Federated Segmentation for Medical Imaging | ISBI 2023 | [Link](https://arxiv.org/pdf/2304.09327) | |
+| IOP-FL: Inside-Outside Personalization for Federated Medical Image Segmentation | IEEE TMI 2023 | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10086676) | |
 | Federated Cross Learning for Medical Image Segmentation | MIDL 2023 | [Link](https://openreview.net/forum?id=DrZbwobH_zo) ||
+| Federated Multi-Organ Segmentation With Inconsistent Labels | IEEE TMI 2023 | [Link](https://pubmed.ncbi.nlm.nih.gov/37097793/) ||
 | FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation | IEEE TMI 2022 | [Link](https://ieeexplore.ieee.org/document/10004567) | :x: |
 | Federated learning enables big data for rare cancer boundary detection | Nature Communications 2022 | [Link](https://www.nature.com/articles/s41467-022-33407-5) | :x: |
 | Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation | CVPR 2022 | [Link](https://par.nsf.gov/servlets/purl/10366148) | :x: |
+| Personalizing Federated Medical Image Segmentation via Local Calibration | ECCV 2022 | [Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810449.pdf) ||
+| Federated Tumor Segmentation with Patch-Wise Deep Learning Model | MLMI 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_47)||
 | Efficient Federated Tumor Segmentation via Normalized Tensor Aggregation and Client Pruning | BrainLes 2021 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_38) | :x: |
 | FEDDG: Federated Domain Generalization On Medical Image Segmentation via Episodic Learning in Continuous Frequency Space | CVPR 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf) | :x: |
 | Multi-task Federated Learning for Heterogeneous Pancreas Segmentation | MICCAI 2021 W| [Link](https://dl.acm.org/doi/10.1007/978-3-030-90874-4_10) | :x: |
@@ -40,6 +49,7 @@
 | :---------------- | :------: |
 | FedSegment| [Link](https://fedsegment.github.io/home/) |
 | Federated Tumor Segmentation Challenge | [Link](https://fets-ai.github.io/Challenge/) |
+| FeTS-AI Front-End | [Link](https://github.com/FeTS-AI/Front-End) |
 | Federated Learning on Vessel Segmentation | [Link](https://openmined.org/blog/federated-learning-on-vessel-segmentation/) |
 | | [Link]() |
 | | [Link]() |
