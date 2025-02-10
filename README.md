@@ -37,6 +37,7 @@
 | Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation | CVPR 2022 | [Link](https://par.nsf.gov/servlets/purl/10366148) | :x: |
 | Personalizing Federated Medical Image Segmentation via Local Calibration | ECCV 2022 | [Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810449.pdf) ||
 | Federated Tumor Segmentation with Patch-Wise Deep Learning Model | MLMI 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_47)||
+| Federated Learning for Brain Tumor Segmentation Using MRI and Transformers | BrainLes 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_39) ||
 | Efficient Federated Tumor Segmentation via Normalized Tensor Aggregation and Client Pruning | BrainLes 2021 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_38) | :x: |
 | FEDDG: Federated Domain Generalization On Medical Image Segmentation via Episodic Learning in Continuous Frequency Space | CVPR 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf) | :x: |
 | Multi-task Federated Learning for Heterogeneous Pancreas Segmentation | MICCAI 2021 W| [Link](https://dl.acm.org/doi/10.1007/978-3-030-90874-4_10) | :x: |
