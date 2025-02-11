@@ -29,6 +29,7 @@
 | Fair Federated Medical Image Segmentation via Client Contribution Estimation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Fair_Federated_Medical_Image_Segmentation_via_Client_Contribution_Estimation_CVPR_2023_paper.pdf) ||
 | Federated learning for heart segmentation | IVMSP 2022 | [Link](https://ieeexplore.ieee.org/document/9816345) | :x: |
 | A review on brain tumor segmentation based on deep learning methods with federated learning techniques | Computerized Medical Imaging and Graphics | [Link](https://www.sciencedirect.com/science/article/pii/S0895611123001313) ||
+| FedIIC: Towards robust federated learning for class-imbalanced medical image classification | MICCAI 2023 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_65) | |
 | Federated Alternate Training (FAT): Leveraging Unannotated Data Silos in Federated Segmentation for Medical Imaging | ISBI 2023 | [Link](https://arxiv.org/pdf/2304.09327) | |
 | IOP-FL: Inside-Outside Personalization for Federated Medical Image Segmentation | IEEE TMI 2023 | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10086676) | |
 | Federated Cross Learning for Medical Image Segmentation | MIDL 2023 | [Link](https://openreview.net/forum?id=DrZbwobH_zo) ||
