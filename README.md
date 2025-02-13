@@ -4,7 +4,7 @@
 | :---------------- | :------: | :----: | :----: |
 | Federated 3D multi-organ segmentation with partially labeled and unlabeled data |  IJCARS 2024 | [Link](https://link.springer.com/article/10.1007/s11548-024-03139-6) |✔️|
 | Federated Semi-supervised Learning for Medical Image Segmentation with Intra-client and Inter-client Consistency | BIBM 2024 | [Link](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822798/23onO4ZnSHC) |✔️|
-| FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_35) ||
+| FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_35) |✔️|
 | Personalized federated learning for abdominal multi-organ segmentation based on frequency domain aggregation | JACMP 2024 | [Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14602) ||
 | Federated Semi-Supervised Medical Image Segmentation via Prototype-Based Pseudo-Labeling and Contrastive Learning | IEEE TMI 2024 | [Link](https://ieeexplore.ieee.org/document/10250843) ||
 | Federated brain tumor segmentation: an extensive benchmark | MIA 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001956) | :x: |
@@ -25,7 +25,7 @@
 | Federated Incremental Semantic Segmentation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf) | :x: |
 | FedGrav: An Adaptive Federated Aggregation Algorithm for Multi-institutional Medical Image Segmentation | MICCAI 2023 | [Link](https://dl.acm.org/doi/10.1007/978-3-031-43895-0_16) | :x: |
 | Federated Learning for Medical Image Analysis: A Survey | ArXiv (2023) | [Link](https://arxiv.org/abs/2306.05980v4) | :x: |
-| Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation | ECCV 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_26) ||
+| Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation | ECCV 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_26) |✔️|
 | The Federated Tumor Segmentation (FeTS) Tool: An open-source solution to further solid tumor research | Phys Med Biol. 2022 | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9592188/) | |
 | Fair Federated Medical Image Segmentation via Client Contribution Estimation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Fair_Federated_Medical_Image_Segmentation_via_Client_Contribution_Estimation_CVPR_2023_paper.pdf) ||
 | Federated learning for heart segmentation | IVMSP 2022 | [Link](https://ieeexplore.ieee.org/document/9816345) | :x: |
@@ -38,7 +38,7 @@
 | FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation | IEEE TMI 2022 | [Link](https://ieeexplore.ieee.org/document/10004567) | :x: |
 | Federated learning enables big data for rare cancer boundary detection | Nature Communications 2022 | [Link](https://www.nature.com/articles/s41467-022-33407-5) | :x: |
 | Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation | CVPR 2022 | [Link](https://par.nsf.gov/servlets/purl/10366148) | :x: |
-| Personalizing Federated Medical Image Segmentation via Local Calibration | ECCV 2022 | [Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810449.pdf) ||
+| Personalizing Federated Medical Image Segmentation via Local Calibration | ECCV 2022 | [Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810449.pdf) |✔️|
 | Federated Tumor Segmentation with Patch-Wise Deep Learning Model | MLMI 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_47)||
 | Federated Learning for Brain Tumor Segmentation Using MRI and Transformers | BrainLes 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_39) ||
 | Efficient Federated Tumor Segmentation via Normalized Tensor Aggregation and Client Pruning | BrainLes 2021 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_38) | :x: |
