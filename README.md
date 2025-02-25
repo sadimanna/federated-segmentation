@@ -8,7 +8,7 @@
 | Personalized federated learning for abdominal multi-organ segmentation based on frequency domain aggregation | JACMP 2024 | [Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14602) ||
 | Federated Semi-Supervised Medical Image Segmentation via Prototype-Based Pseudo-Labeling and Contrastive Learning | IEEE TMI 2024 | [Link](https://ieeexplore.ieee.org/document/10250843) ||
 | Federated brain tumor segmentation: an extensive benchmark | MIA 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001956) | :x: |
-| Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27909) | :x: |
+| Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27909) | ✔️ |
 | FedA3I: Annotation quality-aware aggregation for federated medical image segmentation against heterogeneous annotation noise | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29525) |:x: |
 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_27) | :x: |
 | Federated Cross Learning for Medical Image Segmentation | MIDL 2024 | [Link](https://proceedings.mlr.press/v227/xu24a.html) | :x: |
