@@ -2,10 +2,11 @@
 
 | Paper | Venue | Link | Read |
 | :---------------- | :------: | :----: | :----: |
+| FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning | CVPR 2024 | [Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Tamirisa_FedSelect_Personalized_Federated_Learning_with_Customized_Selection_of_Parameters_for_CVPR_2024_paper.pdf) |✔️|
 | Federated 3D multi-organ segmentation with partially labeled and unlabeled data |  IJCARS 2024 | [Link](https://link.springer.com/article/10.1007/s11548-024-03139-6) |✔️|
 | Federated Semi-supervised Learning for Medical Image Segmentation with Intra-client and Inter-client Consistency | BIBM 2024 | [Link](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822798/23onO4ZnSHC) |✔️|
 | FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_35) |✔️|
-| Personalized federated learning for abdominal multi-organ segmentation based on frequency domain aggregation | JACMP 2024 | [Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14602) ||
+| Personalized federated learning for abdominal multi-organ segmentation based on frequency domain aggregation | JACMP 2024 | [Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14602) | ✔️ |
 | Federated Semi-Supervised Medical Image Segmentation via Prototype-Based Pseudo-Labeling and Contrastive Learning | IEEE TMI 2024 | [Link](https://ieeexplore.ieee.org/document/10250843) ||
 | Federated brain tumor segmentation: an extensive benchmark | MIA 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001956) | :x: |
 | Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27909) | ✔️ |
