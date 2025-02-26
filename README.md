@@ -2,7 +2,6 @@
 
 | Paper | Venue | Link | Read |
 | :---------------- | :------: | :----: | :----: |
-| FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning | CVPR 2024 | [Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Tamirisa_FedSelect_Personalized_Federated_Learning_with_Customized_Selection_of_Parameters_for_CVPR_2024_paper.pdf) |✔️|
 | Federated 3D multi-organ segmentation with partially labeled and unlabeled data |  IJCARS 2024 | [Link](https://link.springer.com/article/10.1007/s11548-024-03139-6) |✔️|
 | Federated Semi-supervised Learning for Medical Image Segmentation with Intra-client and Inter-client Consistency | BIBM 2024 | [Link](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822798/23onO4ZnSHC) |✔️|
 | FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_35) |✔️|
