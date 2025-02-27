@@ -11,7 +11,7 @@
 | Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27909) | ✔️ |
 | FedA3I: Annotation quality-aware aggregation for federated medical image segmentation against heterogeneous annotation noise | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29525) |:x: |
 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_27) | :x: |
-| Federated Cross Learning for Medical Image Segmentation | MIDL 2024 | [Link](https://proceedings.mlr.press/v227/xu24a.html) | :x: |
+| Federated Cross Learning for Medical Image Segmentation | MIDL 2024 | [Link](https://proceedings.mlr.press/v227/xu24a.html) | ✔️ |
 | FedST: Federated Style Transfer Learning for Non-IID Image Segmentation | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28199) | ✔️ |
 | Adaptive Aggregate Federated Learning Image Segmentation Method Based on Euclidean Distance | ICSP 2024 | [Link](https://ieeexplore.ieee.org/document/10743280) | :x: |
 | Adaptive Asynchronous Split Federated Learning for Medical Image Segmentation | IEEE Access 2024 | [Link](https://ieeexplore.ieee.org/document/10776986) | :x: |
