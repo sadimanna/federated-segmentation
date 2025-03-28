@@ -8,6 +8,7 @@
 | A New Perspective to Boost Performance Fairness For Medical Federated Learning | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_33) |✔️|
 | pFLFE: Cross-silo Personalized Federated Learning via Feature Enhancement on Medical Image Segmentation | MICCAI 2024 | Same as above | ✔️|
 | CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning with Missing Modalities | MICCAI 2024 | Same as above | ✔️|
+| FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation | MICCAI 2024 | Same as above | ✔️|
 | Personalized federated learning for abdominal multi-organ segmentation based on frequency domain aggregation | JACMP 2024 | [Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14602) | ✔️ |
 | Federated Semi-Supervised Medical Image Segmentation via Prototype-Based Pseudo-Labeling and Contrastive Learning | IEEE TMI 2024 | [Link](https://ieeexplore.ieee.org/document/10250843) |✔️ |
 | Federated brain tumor segmentation: an extensive benchmark | MIA 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001956) | :x: |
