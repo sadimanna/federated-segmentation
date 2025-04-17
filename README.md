@@ -4,6 +4,7 @@
 | :---------------- | :------: | :----: | :----: |
 | Federated 3D multi-organ segmentation with partially labeled and unlabeled data |  IJCARS 2024 | [Link](https://link.springer.com/article/10.1007/s11548-024-03139-6) |✔️|
 | Federated Semi-supervised Learning for Medical Image Segmentation with Intra-client and Inter-client Consistency | BIBM 2024 | [Link](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822798/23onO4ZnSHC) |✔️|
+| Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution | ICTC 2024 | [Link](https://ieeexplore.ieee.org/document/10826674) | |
 | FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_35) |✔️|
 | A New Perspective to Boost Performance Fairness For Medical Federated Learning | MICCAI 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_33) |✔️|
 | pFLFE: Cross-silo Personalized Federated Learning via Feature Enhancement on Medical Image Segmentation | MICCAI 2024 | Same as above | ✔️|
@@ -53,7 +54,6 @@
 | Multi-task Federated Learning for Heterogeneous Pancreas Segmentation | MICCAI 2021 W| [Link](https://dl.acm.org/doi/10.1007/978-3-030-90874-4_10) | :x: |
 | Federated Simulation for Medical Imaging | MICCAI 2020 | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_16) ||
 | Privacy-preserving Federated Brain Tumour Segmentation | MLMI 2019 | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_16) | :x: |
-| | | [Link]() | |
 | | | [Link]() | |
 
 # Benchmarks
