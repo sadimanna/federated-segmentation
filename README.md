@@ -32,6 +32,7 @@
 | Federated Incremental Semantic Segmentation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf) | :x: |
 | FedGrav: An Adaptive Federated Aggregation Algorithm for Multi-institutional Medical Image Segmentation | MICCAI 2023 | [Link](https://dl.acm.org/doi/10.1007/978-3-031-43895-0_16) | :x: |
 | Federated Learning for Medical Image Analysis: A Survey | ArXiv (2023) | [Link](https://arxiv.org/abs/2306.05980v4) | :x: |
+| Influence of data distribution on federated learning performance in tumor segmentation | Radiology: Artificial Intelligence 2023| [Link](https://pubmed.ncbi.nlm.nih.gov/37293342/) | [Fed-nnUNet](https://github.com/LMIAPC/FednnU-Net) |
 | Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation | ECCV 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_26) |✔️|
 | The Federated Tumor Segmentation (FeTS) Tool: An open-source solution to further solid tumor research | Phys Med Biol. 2022 | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9592188/) | |
 | Fair Federated Medical Image Segmentation via Client Contribution Estimation | CVPR 2023 | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Fair_Federated_Medical_Image_Segmentation_via_Client_Contribution_Estimation_CVPR_2023_paper.pdf) ||
